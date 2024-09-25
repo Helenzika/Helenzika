@@ -1,6 +1,5 @@
 # 🌸 Bem-vinda ao meu perfil! ✨
 
-![Coquette header](https://i.pinimg.com/originals/9d/85/22/9d85224ba3db353928ebc94d2fb6c413.gif)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sistemas%20de%20Informação-UNIPLAC-ff66b2?style=for-the-badge" alt="Badge UNIPLAC"/>
@@ -32,4 +31,3 @@
 
 ---
 
-![coquette-gif](https://media.giphy.com/media/26u43B2rhn5XhSZyU/giphy.gif)
