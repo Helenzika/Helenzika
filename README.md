@@ -6,14 +6,12 @@
   <img src="https://img.shields.io/badge/Analista%20de%20Requisitos-Ueek%20Soluções%20Digitais-ff99cc?style=for-the-badge" alt="Badge Ueek"/>
 </p>
 
----
 
 ## 🌸 Sobre mim
 
 **Oi, sou Helen!** Tenho 19 anos e estou cursando o segundo semestre de **Sistemas de Informação** na UNIPLAC. Trabalho como **Analista de Requisitos** na Ueek Soluções Digitais, documentando projetos e intermediando a comunicação entre desenvolvedores e clientes. 💻
 
 
----
 
 ## 🌟 Habilidades
 
@@ -24,7 +22,6 @@
   <img src="https://img.shields.io/badge/Gestão%20de%20Conteúdo-Redes%20Sociais-ff99cc?style=for-the-badge"/>
 </p>
 
----
 ---
 
 ## 🌸 Conecte-se comigo
@@ -38,5 +35,4 @@
   </a>
 </p>
 
----
 
