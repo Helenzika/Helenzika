@@ -30,7 +30,7 @@
 ## 🌸 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/helenoliveiraj" target="_blank">
+  <a href="https://www.linkedin.com/in/helenoliveirajesus" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff66b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:helenoliveiraj@gmail.com">
