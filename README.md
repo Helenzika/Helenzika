@@ -23,7 +23,7 @@
 
 <p align="center" style="animation: fadeIn 6s;">
   <a href="https://www.linkedin.com/in/helenoliveiraj" target="_blank" style="text-decoration:none; color:#ff69b4; font-weight:bold;">LinkedIn</a> • 
-  <a href="mailto:seu-email@dominio.com" style="text-decoration:none; color:#ff69b4; font-weight:bold;">E-mail</a>
+  <a href="mailto:helenoliveiraj@gmail.com" style="text-decoration:none; color:#ff69b4; font-weight:bold;">E-mail</a>
 </p>
 
 <style>
