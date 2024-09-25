@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Helenzika
 - 👀 I’m a requirements analyst studing dev.
 - 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on http://www.linkedin.com/in/helenoliveirajesus
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm not into dev, but you know... mandatory college subject.
