@@ -1,8 +1,5 @@
 # 🌸 Bem-vinda ao meu perfil! ✨
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/9d/85/22/9d85224ba3db353928ebc94d2fb6c413.gif" alt="header-gif" width="600"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sistemas%20de%20Informação-UNIPLAC-ff66b2?style=for-the-badge" alt="Badge UNIPLAC"/>
@@ -15,9 +12,6 @@
 
 **Oi, sou Helen!** Tenho 19 anos e estou cursando o segundo semestre de **Sistemas de Informação** na UNIPLAC. Trabalho como **Analista de Requisitos** na Ueek Soluções Digitais, documentando projetos e intermediando a comunicação entre desenvolvedores e clientes. 💻
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26u43B2rhn5XhSZyU/giphy.gif" alt="coquette-gif" width="300"/>
-</p>
 
 ---
 
@@ -31,14 +25,6 @@
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helen-username&show_icons=true&theme=pink" alt="GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helen-username&layout=compact&theme=pink" alt="Top Languages" width="335"/>
-</p>
-
 ---
 
 ## 🌸 Conecte-se comigo
@@ -53,8 +39,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=helen-username" alt="Visitors Badge" />
-</p>
 
